@@ -66,6 +66,10 @@ a img {
     /* background-position: 0px -68px; */
     background-position: center center;
 }
+.container{
+  max-width: 1200px;
+    margin: auto;
+}
 .description-container{
     height: 80vh;
     position: relative;
